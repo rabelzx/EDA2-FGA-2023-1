@@ -9,3 +9,10 @@ Repositório com exercícios de EDA2 em linguagem C.
 - C - Listas encadeadas - Remoção 
 - D - Listas encadeadas - Busca
 - E - Listas Encadeadas - Mesclar
+
+### FORMATIVA 2
+
+- A - Notas Curiosas 
+- B - Mensagens Nlogoniences
+- C - Número Proibido
+- D - HashIT
